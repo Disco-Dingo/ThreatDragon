@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Aufgabe 4",
+    "owner": "Ich",
+    "description": "ToDo"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Ich"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Christina"
+  }
+}
